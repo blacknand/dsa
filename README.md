@@ -1,1 +1,1 @@
-A continuous work in progress. Do not check here if you do not wish to be immensly dissapointed.
+To learn about DSA, without having to do Leetcode. I do not enjoy Leetcode.
